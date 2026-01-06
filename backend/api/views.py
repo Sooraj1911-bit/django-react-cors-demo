@@ -6,4 +6,4 @@ from rest_framework.response import Response
 
 @api_view(['GET'])
 def test_api(request):
-    return Response({'message': 'Hello bhai, kaam ho gaya'})
+    return Response({'message': 'API is working!'})
