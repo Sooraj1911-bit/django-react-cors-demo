@@ -27,7 +27,7 @@ pip install django djangorestframework django-cors-headers
 python manage.py runserver
 
 Open browser:
-http://127.0.0.1:8000/
+http://127.0.0.1:8000/api/test/
 
 ---
 
